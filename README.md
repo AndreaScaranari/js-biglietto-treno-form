@@ -22,6 +22,6 @@ Il recap dei dati e l'output del prezzo finale, andranno quindi stampati in pagi
 Se non vi sentite particolarmente creativi, vi forniamo uno screenshot da seguire per il secondo milestone. Potete scegliere di implementare una soluzione completamente diversa oppure simile, ma in ogni caso cercate di farla vostra.
 
 #### BONUS
-- Aggiungere il tasto annulla per riportare i campi al valore originale
-- Usare una select per inserire l'età
-- Stampare sul biglietto un numero di carrozza e un numero di biglietto casuali
+1. Aggiungere il tasto annulla per riportare i campi al valore originale
+2. Usare una select per inserire l'età
+3. Stampare sul biglietto un numero di carrozza e un numero di biglietto casuali
